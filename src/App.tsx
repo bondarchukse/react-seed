@@ -6,6 +6,9 @@ import {
   Redirect,
 } from 'react-router-dom';
 import { HomePage } from './pages/HomePage/HomePage';
+import './styles/index.css';
+
+// test comment
 
 export const App: React.FC = () => {
   return (
